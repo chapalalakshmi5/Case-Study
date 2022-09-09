@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Coupons-Eureka-server"/>
+<aop-project name="Deals-and-Coupons"/>
+<aop-project name="Customer-Service"/>
+<aop-project name="Company-Service"/>
+<aop-project name="Deals-and-Coupons-Gateway"/>
+<aop-project name="payment-gateway"/>
+</aop-reference-model>
